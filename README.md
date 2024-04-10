@@ -13,6 +13,8 @@ Screen shots and video will follow upon final work as well as how to use Applica
 
 ## Usage
 
+Repository: https://github.com/SongBirdCode/Employee-Tracker-MOD12
+
 All materials should be present within repository. 
 
 ## Credits
