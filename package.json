@@ -9,15 +9,15 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/nicolewallace09/employee-tracker.git"
+      "url": "git+https://github.com/SongBirdCode/Employee-Tracker-MOD12"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/nicolewallace09/employee-tracker/issues"
+      "url": "https://github.com/SongBirdCode/Employee-Tracker-MOD12"
     },
-    "homepage": "https://github.com/nicolewallace09/employee-tracker#readme",
+    "homepage": "https://github.com/SongBirdCode/Employee-Tracker-MOD12",
     "dependencies": {
       "console.table": "^0.10.0",
       "dotenv": "^8.2.0",
