@@ -2,7 +2,7 @@
 
 ## Description & Goal
 
-An application to manage a databased focused on employees within a company. 
+An application to manage a database focused on employees, roles, and departments within a company. 
 
 This will be an application focused within command-line application, entirely back-end development utilizing Node.js, MySQL, and Inquirer. 
 
@@ -18,7 +18,7 @@ In order to start the application run "npm start"
 
 To view the database from MySQL run "run mysql -u root -p" 
 
-A Video Walkthrough is included here: _____________
+A Video Walkthrough is included here: https://drive.google.com/file/d/1ucyZBY7qNTcRLBLeFkj9zqHnBrrF9-4D/view
 
 ## Result
 
@@ -37,7 +37,7 @@ Help from my tutor following material covered within our bootcamp.
 
 ## License
 
-MIT License © 2023 Songbirdcode (tweet, tweet) 
+MIT License © 2024 Songbirdcode (tweet, tweet) 
 ---
 
 ## Badges
